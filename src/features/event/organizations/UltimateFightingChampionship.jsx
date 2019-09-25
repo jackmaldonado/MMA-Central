@@ -6,6 +6,7 @@ class UltimateFightingChampionship extends Component {
         return (
             <Fragment>
                 <h1>UFC</h1>
+                
                 <UpcomingsEvents />
             </Fragment>
         )
